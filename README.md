@@ -1,0 +1,2 @@
+# sowmi
+learn programmking languages
